@@ -14,11 +14,7 @@
             "visible": true,
             "location": 3,
             "fontsize": 30,
-            "fontcolor": {
-              "red": 255,
-              "green": 0,
-              "blue": 128
-            }
+            "fontcolor": "#FF0000"
           },
           "bgm": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
           "playlist": [
@@ -51,11 +47,7 @@
               "duration": 10000,
               "location": 3,
               "fontsize": 30,
-              "fontcolor": {
-                "red": 0,
-                "green": 0,
-                "blue": 255
-              },
+              "fontcolor": "#FF0000",
               "tag": "TYPE_TEXT",
               "text": "hello I am Pluspark Data from Server hellohellohellohellohellohellohellohellohellohellohellohello"
             },
@@ -75,11 +67,7 @@
             "visible": true,
             "location": 3,
             "fontsize": 30,
-            "fontcolor": {
-              "red": 255,
-              "green": 0,
-              "blue": 128
-            }
+            "fontcolor": "#FF0000"
           },
           "bgm": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
           "playlist": [
@@ -112,11 +100,7 @@
               "duration": 10000,
               "location": 3,
               "fontsize": 30,
-              "fontcolor": {
-                "red": 0,
-                "green": 0,
-                "blue": 255
-              },
+              "fontcolor": "#FF0000",
               "tag": "TYPE_TEXT",
               "text": "hello I am Pluspark Data from Server hellohellohellohellohellohellohellohellohellohellohellohello"
             },
@@ -136,11 +120,7 @@
             "visible": true,
             "location": 3,
             "fontsize": 30,
-            "fontcolor": {
-              "red": 255,
-              "green": 0,
-              "blue": 128
-            }
+            "fontcolor": "#FF0000"
           },
           "bgm": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
           "playlist": [
@@ -173,11 +153,7 @@
               "duration": 10000,
               "location": 3,
               "fontsize": 30,
-              "fontcolor": {
-                "red": 0,
-                "green": 0,
-                "blue": 255
-              },
+              "fontcolor": "#FF0000",
               "tag": "TYPE_TEXT",
               "text": "hello I am Pluspark Data from Server hellohellohellohellohellohellohellohellohellohellohellohello"
             },
