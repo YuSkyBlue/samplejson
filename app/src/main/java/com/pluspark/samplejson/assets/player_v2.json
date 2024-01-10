@@ -1,0 +1,96 @@
+[{
+  "product": "Signage By Live JSON generator",
+  "version": 1,
+  "releaseData": "2023-01-05T00:00:00.000Z",
+  "viewType": "1",
+  "bgm": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+  "container": [
+    {
+      "id": 1,
+      "width": 1080,
+      "height": 400,
+      "clock": {
+        "visible": true,
+        "location": 3,
+        "fontsize": 30,
+        "fontcolor": "#00FF00"
+      },
+      "playlist": [
+        {
+          "order": 1,
+          "duration": 10000,
+          "tag": "TYPE_VIDEO",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        },
+        {
+          "order": 2,
+          "duration": 10000,
+          "tag": "TYPE_IMAGE",
+          "url": "https://images.unsplash.com/photo-1628373383885-4be0bc0172fa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1301&q=80"
+        },
+        {
+          "order": 3,
+          "duration": 10000,
+          "tag": "TYPE_PDF",
+          "url": "https://myreport.altervista.org/Lorem_Ipsum.pdf"
+        },
+        {
+          "order": 4,
+          "duration": 10000,
+          "location": 3,
+          "fontsize": 30,
+          "fontcolort": "#0000FF",
+          "tag": "TYPE_TEXT",
+          "text": "hello I am Pluspark Data from Server hellohellohellohellohellohellohellohellohellohellohellohello"
+        },
+        {
+          "order": 5,
+          "duration": 10000,
+          "tag": "TYPE_WEB",
+          "url": "https://www.google.com"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "width": 1080,
+      "height": 400,
+      "clock": {
+        "visible": false,
+        "location": 3,
+        "fontsize": 30,
+        "fontcolor": "#FF0000"
+      },
+      "playlist": [
+        {
+          "order": 1,
+          "duration": 10000,
+          "tag": "TYPE_WEB",
+          "url": "https://www.naver.com"
+        },
+        {
+          "order": 2,
+          "duration": 10000,
+          "location": 3,
+          "fontsize": "40",
+          "fontcolor": "#00FF00",
+          "tag": "TYPE_TEXT",
+          "text": "this is seceond container value json"
+        },
+        {
+          "order": 3,
+          "duration": 10000,
+          "tag": "TYPE_VIDEO",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+        },
+        {
+          "order": 4,
+          "duration": 10000,
+          "tag": "TYPE_VIDEO",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+        }
+      ]
+    }
+  ]
+}
+]
