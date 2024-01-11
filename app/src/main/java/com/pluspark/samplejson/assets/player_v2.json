@@ -19,9 +19,9 @@
       "playlist": [
         {
           "order": 1,
-          "duration": 10000,
-          "tag": "TYPE_VIDEO",
-          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          "duration": 0,
+          "tag": "TYPE_WEB",
+          "url": "https://www.google.com"
         },
         {
           "order": 2,
@@ -47,8 +47,8 @@
         {
           "order": 5,
           "duration": 10000,
-          "tag": "TYPE_WEB",
-          "url": "https://www.google.com"
+          "tag": "TYPE_VIDEO",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "playlist": [
         {
           "order": 1,
-          "duration": 10000,
+          "duration": 0,
           "tag": "TYPE_WEB",
           "url": "https://www.naver.com"
         },
@@ -76,7 +76,7 @@
           "fontsize": "40",
           "fontcolor": "#00FF00",
           "tag": "TYPE_TEXT",
-          "text": "this is seceond container value json"
+          "text": "this is seceond container value jso"
         },
         {
           "order": 3,
@@ -90,7 +90,8 @@
           "tag": "TYPE_VIDEO",
           "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
         }
-      ]
+      ],
+      "n": {}
     }
   ]
 }
