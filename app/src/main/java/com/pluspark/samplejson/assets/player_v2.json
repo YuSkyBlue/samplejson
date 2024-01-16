@@ -2,7 +2,7 @@
   "product": "Signage By Live JSON generator",
   "version": 1,
   "releaseData": "2023-01-05T00:00:00.000Z",
-  "viewtype": 0,
+  "viewtype": 2,
   "bgm": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
   "container": [
     {
@@ -18,7 +18,7 @@
       "playlist": [
         {
           "order": 1,
-          "duration": 0,
+          "duration": 10000,
           "tag": "TYPE_WEB",
           "url": "https://www.google.com"
         },
@@ -64,7 +64,7 @@
       "playlist": [
         {
           "order": 1,
-          "duration": 0,
+          "duration": 10000,
           "tag": "TYPE_WEB",
           "url": "https://www.naver.com"
         },
@@ -141,6 +141,12 @@
           "fontcolor": "#00FF00",
           "tag": "TYPE_TEXT",
           "text": "this is 4Th Container Name it is working well json object"
+        },
+        {
+          "order": 2,
+          "duration": 10000,
+          "tag": "TYPE_WEB",
+          "url": "https://www.google.com"
         }
       ]
     },
@@ -156,7 +162,7 @@
       },
       "playlist": [
         {
-          "order": 1,
+          "order": 3,
           "duration": 10000,
           "tag": "TYPE_VIDEO",
           "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
